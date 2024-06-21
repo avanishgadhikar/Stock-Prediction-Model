@@ -21,6 +21,10 @@ The model seem to perform better on short term data than long term data. It can 
 
 ### Short Term-
 ![TrTeSp Short Term](https://github.com/avanishgadhikar/Stock-Prediction-Model/assets/133745149/c3fd9fb0-f8ce-4640-bc04-231af177f7c5)
+![Short Term](https://github.com/avanishgadhikar/Stock-Prediction-Model/assets/133745149/9b73ba75-447a-4d74-a7a3-b44065c1019d)
+![Validation Short Term](https://github.com/avanishgadhikar/Stock-Prediction-Model/assets/133745149/24247053-a941-4e28-9736-8f361e626bee)
+![Testing Short Term](https://github.com/avanishgadhikar/Stock-Prediction-Model/assets/133745149/21bd3c47-729a-4876-9b64-4575409bebfa)
+![Short Term 2](https://github.com/avanishgadhikar/Stock-Prediction-Model/assets/133745149/3b6c808c-8149-4a9d-9080-dbbeea240353)
 
 
 ## Results:
